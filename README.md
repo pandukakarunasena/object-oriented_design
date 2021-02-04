@@ -14,9 +14,17 @@ shows different parts of the system work in _sequence_ to get something done.
 
 ## Notation
 
-- Life line notation
-  - with _Object_ element
-  - with _Actor_ element
-  - with _Entity_ element
-  - with _Boundary_ element
-  - with _Control_ element
+- _Life Line Notation_
+  - with **Object** element
+  - with **Actor** element
+  - with **Entity** element
+  - with **Boundary** element
+  - with **Control** element
+* _Activation Bars_
+* _Message Arrows_
+  - **Synchronous** messages
+  - **Asynchronous** messages
+  - **Return** messages
+  - **Participant** Creation messages
+  - **Participant** Deductive messeges
+  - **Reflexive** messages
