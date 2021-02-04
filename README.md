@@ -10,13 +10,13 @@ for the course, Object oriented design by university of Alberta in coursera onli
 # A sequence diagram
 
     models the interaction of objects in a single use case.
-    shows different parts of the system work in *sequence* to get something done.
+    shows different parts of the system work in _sequence_ to get something done.
 
 ## Notation
 
-    *Life line notation
-        *with *Object* element
-        *with *Actor* element
-        *with *Entity* element
-        *with *Boundary* element
-        *with *Control* element
+    * Life line notation
+        * with _Object_ element
+        * with _Actor_ element
+        * with _Entity_ element
+        * with _Boundary_ element
+        * with _Control_ element
