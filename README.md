@@ -30,7 +30,6 @@ shows different parts of the system work in _sequence_ to get something done.
 - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-Diagram-Activation-Bars.png" alt="activation bar" width="200" height="200">
   
 - _Message Arrows_
-- <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Synchronous-Message.png" alt="message arrow" width="300" height="300">
   - **Synchronous** messages
   - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-Diagram-Activation-Bars.png" alt="synchronous messages" width="300" height="300">
   - **Asynchronous** messages
