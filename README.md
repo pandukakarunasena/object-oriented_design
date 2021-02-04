@@ -16,29 +16,33 @@ shows different parts of the system work in _sequence_ to get something done.
 
 - _Life Line Notation_
   - with **Object** element
-  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-diagram-Lifeline.png" alt="object element notation" width="100" height="100">
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-diagram-Lifeline.png" alt="object element notation" width="200" height="200">
   - with **Actor** element
-  ![actor element notations](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/lifeline-with-an-actor-element-symbol.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/lifeline-with-an-actor-element-symbol.png" alt="actor element notation" width="200" height="200">
   - with **Entity** element
-  ![entity element notation](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Entity-Lifeline.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Entity-Lifeline.png" alt="entity element notation" width="200" height="200">
   - with **Boundary** element
-  ![boundary element notation](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Boundary-Lifeline.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Boundary-Lifeline.png" alt="boundary element notation" width="200" height="200">
   - with **Control** element
-  ![control element notation](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Control-Lifeline.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Control-Lifeline.png" alt="control element notation" width="200" height="200">
+
 - _Activation Bars_
-  ![activation bar](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-Diagram-Activation-Bars.png)
+- <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-Diagram-Activation-Bars.png" alt="activation bar" width="200" height="200">
+  
 - _Message Arrows_
-  ![message arrow](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Synchronous-Message.png)
+- <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Synchronous-Message.png" alt="message arrow" width="300" height="300">
   - **Synchronous** messages
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-Diagram-Activation-Bars.png" alt="synchronous messages" width="300" height="300">
   - **Asynchronous** messages
-  ![asynchronous message](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Asynchronous-Message-example.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Asynchronous-Message-example.png" alt="asynchronous messages" width="300" height="300">
   - **Return** messages
-  ![return message](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Return-Message-Example.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Return-Message-Example.png" alt="return message" width="300" height="300">
   - **Participant** Creation messages
-  ![participant creation message](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Participant-creation-example.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Participant-creation-example.png" alt="participant creation messages" width="300" height="300">
   - **Participant** Deductive messeges
-  ![participant deletion message](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Participation-Destruction-Message.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Participation-Destruction-Message.png" alt="participant deletion messages" width="300" height="300">
   - **Reflexive** messages
-  ![reflexive message](https://d3n817fwly711g.cloudfront.net/blog/wp-content/uploads/2017/01/Reflexive-message.png)
+  - <img src="https://d3n817fwly711g.cloudfront.net/blog/wp-content/uploads/2017/01/Reflexive-message.png" alt="reflexive messages" width="300" height="300">
+  
 - _Comment_
-  ![comment](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Comment-object-example.png)
+- <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Comment-object-example.png" alt="comment" width="200" height="200">
