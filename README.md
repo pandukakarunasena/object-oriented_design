@@ -16,7 +16,7 @@ shows different parts of the system work in _sequence_ to get something done.
 
 - _Life Line Notation_
   - with **Object** element
-  - <img src="[url](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-diagram-Lifeline.png)" alt="object element notation" width="100" height="100">
+  - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-diagram-Lifeline.png" alt="object element notation" width="100" height="100">
   - with **Actor** element
   ![actor element notations](https://d3n817fwly711g.cloudfront.net/uploads/2017/01/lifeline-with-an-actor-element-symbol.png)
   - with **Entity** element
