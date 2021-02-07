@@ -1,18 +1,27 @@
 # object-oriented_design
 
-A brief note for various aspects used in object oriented design thinking
+A brief note for various aspects used in object-oriented design thinking
 
-_This repository is made to refer as a short note in UML sequence diagram.
+_This repository is made to refer as a short note in UML class, sequence, state diagrams.
 Basic understanding is required to fully grasp the points given here.
-This includes the some examples of UML sequence diagrams and questions with the answers
+This includes the few examples of UML class, sequence, state diagrams and questions with the answers
 for the course, Object oriented design by university of Alberta in coursera online learning platform._
 
-# A sequence diagram
+# A class diagram
+is the main building block of object-oriented modeling. 
+It is used for general conceptual modeling of the structure of the application,
+and for detailed modeling translating the models into programming code
 
+# A sequence diagram
 models the interaction of objects in a single use case.
 shows different parts of the system work in _sequence_ to get something done.
 
-## Notation
+# A state diagram
+is used to represent the condition of the system or part of 
+the system at finite instances of time. It's a behavioral diagram 
+and it represents the behavior using finite state transitions.
+
+## Sequence Diagram Notation
 
 - _Life Line Notation_
   - with **Object** element
