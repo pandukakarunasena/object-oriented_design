@@ -27,7 +27,7 @@ shows different parts of the system work in _sequence_ to get something done.
   - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Control-Lifeline.png" alt="control element notation" width="200" height="200">
 
 - _Activation Bars_
-- <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-Diagram-Activation-Bars.png" alt="activation bar" width="200" height="200">
+- <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Sequence-Diagram-Activation-Bars.png" alt="activation bar" width="300" height="300">
   
 - _Message Arrows_
   - **Synchronous** messages
@@ -36,9 +36,9 @@ shows different parts of the system work in _sequence_ to get something done.
   - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Asynchronous-Message-example.png" alt="asynchronous messages" width="300" height="300">
   - **Return** messages
   - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Return-Message-Example.png" alt="return message" width="300" height="300">
-  - **Participant** Creation messages
+  - **Participant Creation** messages
   - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Participant-creation-example.png" alt="participant creation messages" width="300" height="300">
-  - **Participant** Deductive messeges
+  - **Participant Deductive** messeges
   - <img src="https://d3n817fwly711g.cloudfront.net/uploads/2017/01/Participation-Destruction-Message.png" alt="participant deletion messages" width="300" height="300">
   - **Reflexive** messages
   - <img src="https://d3n817fwly711g.cloudfront.net/blog/wp-content/uploads/2017/01/Reflexive-message.png" alt="reflexive messages" width="300" height="300">
