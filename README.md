@@ -21,6 +21,19 @@ is used to represent the condition of the system or part of
 the system at finite instances of time. It's a behavioral diagram 
 and it represents the behavior using finite state transitions.
 
+
+The UML class diagram in this repo show simple replationships of objects of an Air ticket booking application. Below classes are considered in the diagram.
+    1. Airport
+    2. Person _inherited by Staff, Pilot, Customer_
+    3. Staff 
+    4. Pilot
+    5. Customer add
+    6. Airline 
+    7. Flight
+    8. Plane
+    9. Ticket 
+
+
 ## Sequence Diagram Notation
 
 - _Life Line Notation_
